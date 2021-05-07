@@ -1,2 +1,11 @@
 # Pokemon Stat Predictor
- Program that will find the stats for your starting pokemon in Pokemon Colosseum and Pokemon XD 
+ This program will find the specific IVs for your starting pokemon and some shadow pokemon in Pokemon Colosseum and Pokemon XD.
+ Available in English and Japanese(Colosseum only). 
+ 
+ Sorry code is private because these programs are forked from Dabomstew's old code, that he never published.
+ 
+ Screenshots:
+ 
+ ![alt text](https://github.com/TheeOnlyJuan/Pokemon-Stat-Predictor/blob/main/PredictorColo.PNG?raw=true)
+ ![alt text](https://github.com/TheeOnlyJuan/Pokemon-Stat-Predictor/blob/main/PredictorJP.PNG?raw=true)
+ ![alt text](https://github.com/TheeOnlyJuan/Pokemon-Stat-Predictor/blob/main/PredictorXD.PNG?raw=true)
